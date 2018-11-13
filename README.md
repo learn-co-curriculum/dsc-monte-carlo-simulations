@@ -96,7 +96,7 @@ area_inside = frac_inside * total_area
 print(area_inside)
 ```
 
-    3.1484
+    3.1312
 
 
 Not the best simulation of pi, but we can easily turn up our number of simulations to improve the estimate:
@@ -138,7 +138,7 @@ print(area_inside)
 ![png](index_files/index_11_0.png)
 
 
-    3.14468
+    3.13688
 
 
 ## Permutation Tests and Exploding Combination Sizes
