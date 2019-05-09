@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Monte Carlo simulations are useful approximations when solving a mathematical problem analytically is impracticle or impossible. 
+Monte Carlo simulations are useful approximations when solving a mathematical problem analytically is impractical or impossible. 
 
 
 ## Objectives
@@ -12,7 +12,7 @@ You will be able to:
 
 * Understand and conduct Monte Carlo simulations
 
-Due to the increasing availability and affordability of powerful computational engines (computers), monte carlo simulations have become an increasingly popular tool for conducting statistical testing.
+Due to the increasing availability and affordability of powerful computational engines (computers), Monte Carlo simulations have become an increasingly popular tool for conducting statistical testing.
 
 ## Area of a Circle
 
@@ -143,7 +143,7 @@ print(area_inside)
 
 ## Permutation Tests and Exploding Combination Sizes
 
-When conducting permutation tests, the size of potential combination sizes quickly explodes as our original sample sizes grow. As a result, even with modern computers, it is often infeasible or aggregiously resource expensive to attempt to generate these permutation spaces. To cope with this, monte carlo simulations are often used in practice in order to simulate samples from the permutation space. In the upcoming lab, you'll do just that!
+When conducting permutation tests, the size of potential combination sizes quickly explodes as our original sample sizes grow. As a result, even with modern computers, it is often infeasible or egregiously resource-expensive to attempt to generate these permutation spaces. To cope with this, monte carlo simulations are often used in practice in order to simulate samples from the permutation space. In the upcoming lab, you'll do just that!
 
 ## Additional Resources
 
